@@ -1,0 +1,11 @@
+add R2 R3
+add R6 R0
+sub R2 R4
+addi R5 7
+lw R1 5
+lw R2 3
+sw R3 7
+jmp R0 5
+jmp R0 8
+
+        
